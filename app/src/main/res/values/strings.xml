@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Snapspeech</string>
+    <string name="help_and_about">
+        Snapspeech is developed for people with auditory learning style, but not limited to.
+        Besides people who is just too lazy to read aloud a certain message in a saved photo or directly in front of them, can easily use this application.
+        As the name contains two words "snap" and "speech", upon using the application you only need to snap the image you wanted to detect text from and the application will turn it to a text and do the speech (reading it for you).
+        To use this application, first we could click on the picture icon on the upper right corner next to the three dots, which is a menu. You can then choose right away the source of the image to detect (camera or gallery).
+        If you feel that the image does not fit right away, you can edit it according to your will. Afterwards, just click done and the text is ready! You might want to recheck the final output and you can also do some edit on the final text.
+        Afterwards, you may want to hear it out loud using the speak button and stop it when you don\'t want to hear it anymore. Please do not forget to ensure that the sound on your device is turned on.
+        If you want to just use the Optical Character Recognition part of the application, you can copy the detected text and paste it where you needed it to be.\n
+        \n
+        Development Resources:\n
+        Text Recognition API on Mobile Vision by Google\n
+        Android Image Cropper by Arthur\n
+        English Words by Infochimps from dwyl on Github\n
+        \n
+        Developed By:\n
+        Winston Renatan
+    </string>
+</resources>
